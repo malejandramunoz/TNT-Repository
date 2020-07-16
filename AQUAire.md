@@ -13,7 +13,7 @@ AQUAire is convenient because it will provide digital mapping features that pinp
 
 ## Customer profile - Andi
 
-* **WHO** - Those who live or travel to low-income communities
+* **WHO** - Travelers and members of low income communities
 * **WHAT** - 
 * **WHERE** - low-income communities
 * **WHY** -
@@ -22,7 +22,7 @@ AQUAire is convenient because it will provide digital mapping features that pinp
 
 -YAN
 
-Once upon a time, there was a man named Orlando. One day he decided to take a trip to the Dominican Republic to do some community work, and when he arrived at the local sector called Quita Sueños he was treated with the utmost kindness since he was there to help. The people started giving him food and beverages but he was warned that the water was not safe and could make him sick. This posed a problem: how could he maintain his good health without rejecting the locals kindness? Orlando had no choice but to trust it; however he could never make sure that the water he was drinking safe. He resorted to buying bottled water but it was difficult to find since he was going around from sector to sector trying to help the locals. Orlando's time in the dominican would have been easier if he had accurate information on where to find clean water near him.
+Once upon a time, there was a man named Orlando. One day he decided to take a trip to the Dominican Republic to do some community work, and when he arrived at the local sector called Quita Sueños he was treated with the utmost kindness since he was there to help. The people started giving him food and beverages but he was warned that the water was not safe and could make him sick. This posed a problem: how could he maintain his good health without rejecting the locals kindness? Orlando had no choice but to trust it; however he could never make sure that the water he was drinking was safe. He resorted to buying bottled water but it was difficult to find since he was going around from sector to sector trying to help the locals. Orlando's time in the Dominican Republic would have been easier if he had accurate information on where to find clean water near him.
 
 
 ## Goals - Andi
@@ -42,7 +42,10 @@ Once upon a time, there was a man named Orlando. One day he decided to take a tr
 
 ## Out of scope - Alejandra
 
-- A volunteer system that lets user volunteer to deliver water 
+- A volunteer system that lets user volunteer to deliver water to those who need it
+- A donationations tab that lets the user donate water to communities who don't have access to clean water or this app.
+- Tracking of the water consumed and statistics based on this data.
+- Delivery system based on being able to purchase water from water locations near the user.
 
 ## UX - Adriana
 We chose a small screen to cater to those who need on-the-go access. More people have smart phones over computers, so a smaller screen would be accesible to more people. Because one of our main features is a digital map, it would be more convenient for users to be able to follow direction on their phone.
