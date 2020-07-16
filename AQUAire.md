@@ -53,11 +53,50 @@ We chose a small screen to cater to those who need on-the-go access. More people
 
 ## Breakdown of work - Tomorrow
 
-*How is the app being built?, Who's doing the work?*
+|  User Story | Engineering Description  | Assigned to  |
+|---|---|---|
 
 ## Compete analysis - Alejandra
 
-*Top competitors, SWOT (strength, weaknesses, opportunities, threats)*
+The competediors of AQUAire include: 
+
+1. USGS Water Resources :[See here](https://www.usgs.gov/mission-areas/water-resources/maps)
+2. Water Time Pro: flexible settings, offers automatic calculation of water consumption, and tracks other beverages such as coffee and tea.
+3. Water Research Resources: [See here](https://agupubs.onlinelibrary.wiley.com/journal/19447973)
+4. WHO: Drinking Water: [See here](https://www.who.int/news-room/fact-sheets/detail/drinking-water)
+5. Water Organization: [See here](https://water.org/)
+6. The Water Project [See here](https://thewaterproject.org/ )
+7. Clear Water Services: [See here](https://www.cleanwaterservices.org/about-us/one-water/our-watershed/maps-data/)
+8. Barnstable Clean Water Coalitions: [See here](https://bcleanwater.org/resources/precinct-maps/)
+9. Clean Water Roadmap: [See here](https://anrweb.vt.gov/DEC/CWR/CWR-tool)
+10. UNICEF Water 101: [See here](https://www.unicefusa.org/water-map)
+
+From the summery of the competitive analysis, the primary strenghts, weaknesses, oportunities and threats of AQUAire are:
+
+Strenghts: 
+- Map feature that is real time.
+- Specific places where you can find water and not just rivers or the sea/
+- Downloadable map to use offline.
+- Social media outreach.
+
+Weaknesses:
+- The information elsewhere could be better than ours because we are just compailing it now, and the fact that it could be less accurate.
+- More time in the business in general
+- Credibility that we would have to build.
+- Resources to information that we don't have
+
+Oportunities:
+- Focused on accesibility. Not building water sources for the community.
+- Lack of getting input from the community and those who travel there.
+- Targetting people all over the world, not just specific areas/communities.
+- There's not much travel needed for the dev team.
+
+Threats: 
+- Copyright in general
+- Getting the information to our app, it could be that we would need to source our competitors.
+- Financial difficulties, being in an early stage company development.
+
+
 
 ## Future opportunities - Dickson
 
