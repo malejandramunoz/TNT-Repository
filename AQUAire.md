@@ -63,7 +63,7 @@ We wanted to showcase all of the app's features on our home page without clutter
 
 The bottom of our web page allows for the user to change the language of the app. Because we want our app to be accessible to communities all around the world, and access to clean water is a global issue, it is important for our app to be linguistically diverse. This option is repeated on the majority of our pages.
 
-![App Home Page](PrototypeImages/homePage.png | height=48)
+![App Home Page] <img src= "PrototypeImages/homePage.png"  width=400></br>
   
 This is the side menu that appears when the user clicks on the "Hamburger menu" on the home page. It displays all the features of the app in one short menu, with a description tab also enabled when the user clicks on the carrot icon, giving the user more information on that specific feature.
 
