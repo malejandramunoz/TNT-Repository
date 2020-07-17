@@ -13,12 +13,12 @@ AQUAire is convenient because it will provide digital mapping features that pinp
 
 ## Customer profile - Andi
 
-* **WHO** - Travelers and members of low income communities
-* **WHAT** - 
-* **WHERE** - low-income communities
-* **WHY** -
-* **WHEN** -
-* **HOW** - 
+* **WHO** - Travelers and locals in communities
+* **WHAT** - Clean drinkable water from either surface water, companies and/or organizations
+* **WHERE** - Low-income communities and those who have been affected by natural disasters
+* **WHY** - Because each year, more than 5 million people die from diseases caused by unsafe drinking water and lack of sanitation
+* **WHEN** - To be able to use anytime when necessary for the users convinence.
+* **HOW** - Providing our app to allow user to map to specific locations and review feedbacks to narrow thier search
 
 -YAN
 
@@ -28,7 +28,13 @@ Once upon a time, there was a man named Orlando. One day he decided to take a tr
 ## Goals - Andi
 
 *What are you improving in the customers life*
+
+Our app will save customers time with digital mapping to help marrow down thier search for finding locations with clean water and allows a quick and easy way to do so. It will provide comfort from credible customer reviews, secure feedback in real time, and options to fit bugget needs. Finally, our app will educate customers and expand thier knowledge on the importance of consumiung clean water, what drinking unlean water can do to your health and the tools and techniques to help you clean your own water.
+
+
 *How can it be measured*
+By allowing submissions from cutomers to be reviewed to make sure they trustworthy.
+Scoping to see if sources for loactions are sill functional and reliable
 
 ## In scope - Alejandra
 
