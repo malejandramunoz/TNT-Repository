@@ -11,7 +11,7 @@ AQUAire will help to strengthen communities by providing a credible way for loca
 AQUAire is convenient because it will provide digital mapping features that pinpoints clean water locations and calculates the distance from where you are to where you need to go. 
 
 
-## Customer profile - Andi
+## Customer profile
 
 * **WHO** - Travelers and locals in communities
 * **WHAT** - Clean drinkable water from either surface water, companies and/or organizations
@@ -20,27 +20,18 @@ AQUAire is convenient because it will provide digital mapping features that pinp
 * **WHEN** - To be able to use anytime when necessary for the users convinence.
 * **HOW** - Providing our app to allow user to map to specific locations and review feedbacks to narrow thier search
 
--YAN
-
-Once upon a time, there was a man named Orlando. One day he decided to take a trip to the Dominican Republic to do some community work, and when he arrived at the local sector called Quita Sueños he was treated with the utmost kindness since he was there to help. The people started giving him food and beverages but he was warned that the water was not safe and could make him sick. This posed a problem: how could he maintain his good health without rejecting the locals kindness? Orlando had no choice but to trust it; however he could never make sure that the water he was drinking was safe. He resorted to buying bottled water but it was difficult to find since he was going around from sector to sector trying to help the locals. Orlando's time in the Dominican Republic would have been easier if he had accurate information on where to find clean water near him.
+In the US, was a man named Orlando. One day he decided to take a trip to the Dominican Republic to do some community work, and when he arrived at the local sector called Quita Sueños he was treated with the utmost kindness since he was there to help. The people started giving him food and beverages but he was warned that the water was not safe and could make him sick. This posed a problem: how could he maintain his good health without rejecting the locals kindness? Orlando had no choice but to trust it; however he could never make sure that the water he was drinking was safe. He resorted to buying bottled water but it was difficult to find since he was going around from sector to sector trying to help the locals. Orlando's time in the Dominican Republic would have been easier if he had accurate information on where to find clean water near him.
 
 In Tuba Citylived by a women by the name of Melissa Sloan. Melissa did't know that the water she consumed daily was infected with uranium due to the uranium mining done in the Navajo Nation during the Cold War. For years Melissa used it without a worry in the world, never questioning the integrity of the water nor where did it came from. After several years she started to feel sick. When she went to the doctor she was diagnosed with kidney cancer, one of the conditions linked to uranium contamination. “Growing up, they didn’t talk about how dangerous it was,” said Melissa before she died of kidney cancer on December. “I drank the water; I bathed in the water.”
 
 In the Milhan District the people depend on rainfall water to survive. They have been suffering water shortages due to lack of rainfall. Little Jameela struggles every day to find water for her family.  She must clamber 10-15km to reach the nearest water source. The springs are often located in mountains 1,500-1,800m high which puts her at risk of falling and dying.  Not only that but sometimes she has to make more than one trip per day which caused her to drop-off out of school in order to provide water for her family.  
 
-## Goals - Andi
-
-*What are you improving in the customers life*
-
+## Goals
 Our app will save customers time with digital mapping to help marrow down thier search for finding locations with clean water and allows a quick and easy way to do so. It will provide comfort from credible customer reviews, secure feedback in real time, and options to fit bugget needs. Finally, our app will educate customers and expand thier knowledge on the importance of consumiung clean water, what drinking unlean water can do to your health and the tools and techniques to help you clean your own water.
-
-
-*How can it be measured*
 
 By allowing submissions from cutomers to be reviewed to make sure they trustworthy and scoping to see if sources for loactions are sill functional and reliable. This could also be meansured by having a team of volunteers find these locations and test the water themselves.
 
-## In scope - Alejandra
-
+## In scope
 - P0: A user can see and utilize the map that tracks different water source locations.
 - P0: A user can download the maps to their phone to be used offline.
 - P0: A user can see and create reviews to provide feedback.
@@ -49,16 +40,16 @@ By allowing submissions from cutomers to be reviewed to make sure they trustwort
 - P1: A user can view statistics about clean and unclean water & it's effects on thier body.
 - P2: Be able to share to social media (both locations and information)
 
-## Out of scope - Alejandra
+## Out of scope
 
 - A volunteer system that lets user volunteer to deliver water to those who need it
 - A donationations tab that lets the user donate water to communities who don't have access to clean water or this app.
 - Tracking of the water consumed and statistics based on this data.
 - Delivery system based on being able to purchase water from water locations near the user.
 
-## UX - Adriana
+## UX
 We chose a small screen to cater to those who need on-the-go access. More people have smart phones over computers, so a smaller screen would be accesible to more people. Because one of our main features is a digital map, it would be more convenient for users to be able to follow direction on their phone.
-*Screenshots of feature UI design and descriptions, including why large or small screen*
+
 
 The user is introduced to our mobile web app with clear options and a friendly user interface. The header is simple: it gives a clear display of the name of our app, and links to a menu that leads to all of the app's feature, to prevent overwhelming the user with information. 
 
@@ -98,12 +89,12 @@ By putting all this information in one place, it allows for the user to feel sec
 
 <img src= "PrototypeImages/myAccount.png"  width=300></br>
 
-## Breakdown of work - Tomorrow
+## Breakdown of work
 
 |  User Story | Engineering Description  | Assigned to  |
 |---|---|---|
 
-## Compete analysis - Alejandra
+## Compete analysis
 
 The competediors of AQUAire include: 
 
@@ -145,9 +136,7 @@ Threats:
 
 
 
-## Future opportunities - Dickson
-
-*What would be built next? What are ways to expand customer reach?*
+## Future opportunities
 
 Expanding target market:
 -	Aquaire’s initial release will include two languages and because of limited resources, will be rolled-out in a few countries.
