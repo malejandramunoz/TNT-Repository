@@ -81,7 +81,7 @@ Knowing our space is limited on the mobile device, the Create a Review page requ
 
 We wanted to give the user a simple and efficient experience when leaving a review by displaying a clear and short form. They will be able to easily upload a picture from their camera roll when they click on the image box, and select a rating by tapping on the stars to increase the rating. A gray star signifies that it has not been tapped, and all stars will be gray by default. When tapped on they will turn yellow and the most recent star they tapped on will be outlined with a blue stroke. This will allow for a users to easily know what they are tapping on, which is important because of the small mobile screen.
 
-![Leave a Review Page](PrototypeImages/Review.png | height=48)
+![Leave a Review Page](PrototypeImages/Review.png | height="24")
 
 This page will present the user with a compiled slideshow of pictures of the water, an "Overall Quality" that is measured upon ratings, it's star rating, and all the reviews that have been left by users. This display allows the user to quickly find the information they need.
 
