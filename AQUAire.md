@@ -34,7 +34,7 @@ Our app will save customers time with digital mapping to help marrow down thier 
 
 *How can it be measured*
 
-By allowing submissions from cutomers to be reviewed to make sure they trustworthy and scoping to see if sources for loactions are sill functional and reliable.
+By allowing submissions from cutomers to be reviewed to make sure they trustworthy and scoping to see if sources for loactions are sill functional and reliable. This could also be meansured by having a team of volunteers find these locations and test the water themselves.
 
 ## In scope - Alejandra
 
