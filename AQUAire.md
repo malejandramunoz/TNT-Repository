@@ -145,3 +145,17 @@ Threats:
 ## Future opportunities - Dickson
 
 *What would be built next? What are ways to expand customer reach?*
+
+Expanding target market:
+-	Aquaire’s initial release will include two languages and because of limited resources, will be rolled-out in a few countries.
+-	As we grow and get more revenue, Aquaire hopes to expand by supporting more languages and expanding to more countries. We hope to expand our user numbers by targeting remote communities directly. We could recruit community partners who would oversee recruiting new member and verifying the credibility of water sources.
+New features:
+
+-	Initially, our apps main features will be maps showing closest clean water points, reviews, and information. Future releases could include wellness features such as tracking the amount of water consumed by an individual per day, or environmental features such as tracking the amount of water wasted.
+-	We could also add a donation feature to allow users of our app to donate to clean water projects directly through our app.
+-	Other features such as delivery could be rolled out depending on the feedback we get from our users, and once users have understood the core purpose of our app.
+Revenue model:
+
+-	Because our app mainly targets low-income communities, our revenue model will not be driven by subscriptions. 
+-	Acquire will be valuable to clean water vendors and NGOs. Clean water vendors can utilize user data to provide targeted ads, while non-profits can use data on our app to know which areas need new projects.
+
