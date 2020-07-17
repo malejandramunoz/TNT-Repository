@@ -24,6 +24,9 @@ AQUAire is convenient because it will provide digital mapping features that pinp
 
 Once upon a time, there was a man named Orlando. One day he decided to take a trip to the Dominican Republic to do some community work, and when he arrived at the local sector called Quita Sueños he was treated with the utmost kindness since he was there to help. The people started giving him food and beverages but he was warned that the water was not safe and could make him sick. This posed a problem: how could he maintain his good health without rejecting the locals kindness? Orlando had no choice but to trust it; however he could never make sure that the water he was drinking was safe. He resorted to buying bottled water but it was difficult to find since he was going around from sector to sector trying to help the locals. Orlando's time in the Dominican Republic would have been easier if he had accurate information on where to find clean water near him.
 
+In Tuba Citylived by a women by the name of Melissa Sloan. Melissa did't know that the water she consumed daily was infected with uranium due to the uranium mining done in the Navajo Nation during the Cold War. For years Melissa used it without a worry in the world, never questioning the integrity of the water nor where did it came from. After several years she started to feel sick. When she went to the doctor she was diagnosed with kidney cancer, one of the conditions linked to uranium contamination. “Growing up, they didn’t talk about how dangerous it was,” said Melissa before she died of kidney cancer on December. “I drank the water; I bathed in the water.”
+
+In the Milhan District the people depend on rainfall water to survive. They have been suffering water shortages due to lack of rainfall. Little Jameela struggles every day to find water for her family.  She must clamber 10-15km to reach the nearest water source. The springs are often located in mountains 1,500-1,800m high which puts her at risk of falling and dying.  Not only that but sometimes she has to make more than one trip per day which caused her to drop-off out of school in order to provide water for her family.  
 
 ## Goals - Andi
 
@@ -63,7 +66,7 @@ We wanted to showcase all of the app's features on our home page without clutter
 
 The bottom of our web page allows for the user to change the language of the app. Because we want our app to be accessible to communities all around the world, and access to clean water is a global issue, it is important for our app to be linguistically diverse. This option is repeated on the majority of our pages.
 
-![App Home Page] <img src= "PrototypeImages/homePage.png"  width=400></br>
+![App Home Page](PrototypeImages/homePage.png | height=48)
   
 This is the side menu that appears when the user clicks on the "Hamburger menu" on the home page. It displays all the features of the app in one short menu, with a description tab also enabled when the user clicks on the carrot icon, giving the user more information on that specific feature.
 
