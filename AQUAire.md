@@ -87,7 +87,7 @@ This page will present the user with a compiled slideshow of pictures of the wat
 
 All reviews will state the name of the user who submitted it, to support a community of truth, allowing users to report those who spread misinformation untracked by the app.
 
-![Reviewed Water Page](PrototypeImages/reviewedPage.png | height=48)
+![Reviewed Water Page](PrototypeImages/reviewedPage.png | width=48)
   
 The My Account page displays all the information stored of the user in our web app. It shows their profile picture up top, followed by their information. We designed this page to be non-scrolling so users can input their information without being overwhelmed by the length of the page. 
 
