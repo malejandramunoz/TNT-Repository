@@ -66,11 +66,11 @@ We wanted to showcase all of the app's features on our home page without clutter
 
 The bottom of our web page allows for the user to change the language of the app. Because we want our app to be accessible to communities all around the world, and access to clean water is a global issue, it is important for our app to be linguistically diverse. This option is repeated on the majority of our pages.
 
-![App Home Page](PrototypeImages/homePage.png | height=48)
-  
+<img src="PrototypeImages/homePage.png" width=300>
+
 This is the side menu that appears when the user clicks on the "Hamburger menu" on the home page. It displays all the features of the app in one short menu, with a description tab also enabled when the user clicks on the carrot icon, giving the user more information on that specific feature.
 
-![Menu Page] <img src= "PrototypeImages/morePage.png"  width=300></br>
+<img src= "PrototypeImages/morePage.png"  width=300></br>
   
 The maps feature of our app presents the user with a map pinpointing the locations of local clean water sources. If they are not logged into an account (where they have to provide their address) they will have the option to search for a location. This clear display of the map will allow users to immediately and easily locate clean water in their area.
 
@@ -78,25 +78,25 @@ Below the map, their nearest local water sources will display, in order of close
 
 There will be a button to add  a review at the top of the page so that the user does not have to scroll through all their local areas if they just want to quickly leave a review. 
 
-![Map Page] <img src= "PrototypeImages/maps.png"  width=300></br>
+<img src= "PrototypeImages/maps.png"  width=300></br>
  
 Knowing our space is limited on the mobile device, the Create a Review page requests four simple inputs of the user: A picture of the water, the location, their review, and their overall star rating. 
 
 We wanted to give the user a simple and efficient experience when leaving a review by displaying a clear and short form. They will be able to easily upload a picture from their camera roll when they click on the image box, and select a rating by tapping on the stars to increase the rating. A gray star signifies that it has not been tapped, and all stars will be gray by default. When tapped on they will turn yellow and the most recent star they tapped on will be outlined with a blue stroke. This will allow for a users to easily know what they are tapping on, which is important because of the small mobile screen.
 
-![Leave a Review Page] <img src= "PrototypeImages/Review.png"  width=300></br>
+<img src= "PrototypeImages/Review.png"  width=300></br>
 
 This page will present the user with a compiled slideshow of pictures of the water, an "Overall Quality" that is measured upon ratings, it's star rating, and all the reviews that have been left by users. This display allows the user to quickly find the information they need.
 
 All reviews will state the name of the user who submitted it, to support a community of truth, allowing users to report those who spread misinformation untracked by the app.
 
-![Reviewed Water Page] <img src= "PrototypeImages/reviewedPage.png"  width=300></br>
+<img src= "PrototypeImages/reviewedPage.png"  width=300></br>
   
 The My Account page displays all the information stored of the user in our web app. It shows their profile picture up top, followed by their information. We designed this page to be non-scrolling so users can input their information without being overwhelmed by the length of the page. 
 
 By putting all this information in one place, it allows for the user to feel secure about their privacy because they can access it quickly at any time. 
 
-![My account Page] <img src= "PrototypeImages/myAccount.png"  width=300></br>
+<img src= "PrototypeImages/myAccount.png"  width=300></br>
 
 ## Breakdown of work - Tomorrow
 
