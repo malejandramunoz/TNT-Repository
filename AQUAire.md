@@ -65,7 +65,7 @@ The bottom of our web page allows for the user to change the language of the app
 
 home page img
   
-This is the side menu that appears when the user clicks on the "Hamburger menu" on the home page. It displays all the features of the app in one short menu, with a description tab also enabled when the user tabs on the carrot icon on the tab. This will give the user more information on where the tab will take them. 
+This is the side menu that appears when the user clicks on the "Hamburger menu" on the home page. It displays all the features of the app in one short menu, with a description tab also enabled when the user clicks on the carrot icon, giving the user more information on that specific feature.
 
 more page img
   
@@ -77,13 +77,13 @@ There will be a button to add  a review at the top of the page so that the user 
 
 maps page img
  
-Knowing our space is limited on the mobile device,  the Create a Review page requests four simple inputs of the user: A picture of the water, the location, their review, and their overall star rating. 
+Knowing our space is limited on the mobile device, the Create a Review page requests four simple inputs of the user: A picture of the water, the location, their review, and their overall star rating. 
 
 We wanted to give the user a simple and efficient experience when leaving a review by displaying a clear and short form. They will be able to easily upload a picture from their camera roll when they click on the image box, and select a rating by tapping on the stars to increase the rating. A gray star signifies that it has not been tapped, and all stars will be gray by default. When tapped on they will turn yellow and the most recent star they tapped on will be outlined with a blue stroke. This will allow for a users to easily know what they are tapping on, which is important because of the small mobile screen.
 
 add a review page img
   
-After being able to access all the  local water sources, the user will be directed to the reviewed page when clicking on a location name. This page will present the user with a compiled slideshow of pictures of the water, an "Overall Quality" that is measured upon ratings, it's star rating, and all the reviews that have been left by users. This display allows the user to quickly find the information they need.
+This page will present the user with a compiled slideshow of pictures of the water, an "Overall Quality" that is measured upon ratings, it's star rating, and all the reviews that have been left by users. This display allows the user to quickly find the information they need.
 
 All reviews will state the name of the user who submitted it, to support a community of truth, allowing users to report those who spread misinformation untracked by the app.
 
