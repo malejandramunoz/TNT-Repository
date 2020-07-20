@@ -50,44 +50,42 @@ By allowing submissions from cutomers to be reviewed to make sure they trustwort
 ## UX
 We chose a small screen to cater to those who need on-the-go access. More people have smart phones over computers, so a smaller screen would be accesible to more people. Because one of our main features is a digital map, it would be more convenient for users to be able to follow direction on their phone.
 
+<img src="PrototypeImages/header.png" width=300>
+The user is introduced to our mobile web app with clear options and a friendly user interface. The header is simple: it gives a clear display of the name of our app. 
 
-The user is introduced to our mobile web app with clear options and a friendly user interface. The header is simple: it gives a clear display of the name of our app, and links to a menu that leads to all of the app's feature, to prevent overwhelming the user with information. 
+<img src="PrototypeImages/homeScreen.png" width=300>
 
 We wanted to showcase all of the app's features on our home page without cluttering the visual experience of the user. To prevent this, we added a slideshow/carousel that automatically switches every 5 seconds. The photo on the screen would be descriptive of the feature it links to.
 
+Below the carousel, we have three simple buttons that link to the three features of our app. Users can quickly navigate through our app if they choose to not use the slideshow. 
+
 The bottom of our web page allows for the user to change the language of the app. Because we want our app to be accessible to communities all around the world, and access to clean water is a global issue, it is important for our app to be linguistically diverse. This option is repeated on the majority of our pages.
 
-<img src="PrototypeImages/homePage.png" width=300>
 
-This is the side menu that appears when the user clicks on the "Hamburger menu" on the home page. It displays all the features of the app in one short menu, with a description tab also enabled when the user clicks on the carrot icon, giving the user more information on that specific feature.
-
-<img src= "PrototypeImages/morePage.png"  width=300></br>
+<img src= "PrototypeImages/mapsPage.png"  width=300></br>
   
-The maps feature of our app presents the user with a map pinpointing the locations of local clean water sources. If they are not logged into an account (where they have to provide their address) they will have the option to search for a location. This clear display of the map will allow users to immediately and easily locate clean water in their area.
+The maps feature of our app presents the user with a map pinpointing the locations of local clean water sources. They will have the option to search for a location, and can read a short description of the feature. This clear display of the map will allow users to immediately and easily locate clean water in their area.
 
-Below the map, their nearest local water sources will display, in order of closest to farthest vicinity. The name of the location will appear above the picture, and its "star rating" will appear below it. Pictures of the water will display, so that the user knows what options they have as they scroll. 
+Below the map, their nearest local water sources will display, in order of closest to farthest vicinity. They can also sort results by lowest price and/or accessibility. 
 
-There will be a button to add  a review at the top of the page so that the user does not have to scroll through all their local areas if they just want to quickly leave a review. 
-
-<img src= "PrototypeImages/maps.png"  width=300></br>
+<img src= "PrototypeImages/report.png"  width=300></br>
  
-Knowing our space is limited on the mobile device, the Create a Review page requests four simple inputs of the user: A picture of the water, the location, their review, and their overall star rating. 
+Knowing our space is limited on the mobile device, the Report a Problem page asks the user to assess three qualities from the water using a thumbs up or thumbs down. They will then be given space to write a comment, and be prompted to enter their email address for further contact. 
 
-We wanted to give the user a simple and efficient experience when leaving a review by displaying a clear and short form. They will be able to easily upload a picture from their camera roll when they click on the image box, and select a rating by tapping on the stars to increase the rating. A gray star signifies that it has not been tapped, and all stars will be gray by default. When tapped on they will turn yellow and the most recent star they tapped on will be outlined with a blue stroke. This will allow for a users to easily know what they are tapping on, which is important because of the small mobile screen.
 
-<img src= "PrototypeImages/Review.png"  width=300></br>
-
-This page will present the user with a compiled slideshow of pictures of the water, an "Overall Quality" that is measured upon ratings, it's star rating, and all the reviews that have been left by users. This display allows the user to quickly find the information they need.
-
-All reviews will state the name of the user who submitted it, to support a community of truth, allowing users to report those who spread misinformation untracked by the app.
-
-<img src= "PrototypeImages/reviewedPage.png"  width=300></br>
+<img src= "PrototypeImages/locationPage.png"  width=300></br>
   
-The My Account page displays all the information stored of the user in our web app. It shows their profile picture up top, followed by their information. We designed this page to be non-scrolling so users can input their information without being overwhelmed by the length of the page. 
+After being able to access all the local water sources, the user will be directed to the locations page when clicking on a location name as a pop-up. By making this a pop-up, it allows for quicker and easier peformance when the user wants to review multiple locations at once. This page shows the user a compiled slideshow of pictures of the water and a description of the water based on reports sent to us by users, and information presented by the company. This display allows the user to quickly find the information they need to make their decision.
 
-By putting all this information in one place, it allows for the user to feel secure about their privacy because they can access it quickly at any time. 
+<img src= "PrototypeImages/directionsPage.png"  width=300></br>
 
-<img src= "PrototypeImages/myAccount.png"  width=300></br>
+The user will be able to access step by step directions on how to arrive to a location, along with a map that shows the user how to arrive with a red line. This will be available for offline access by allowing the user to download a photo of the information to their camera roll. For people who have access to wifi, they will be able to open it in their phones map app. 
+
+<img src= "PrototypeImages/findInfo.png"  width=300></br>
+
+The Information page allows the user to quickly access information on how to clean their water. The design consists of a scrollable page with information.
+
+
 
 ## Breakdown of work
 
