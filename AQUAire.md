@@ -59,6 +59,8 @@ We wanted to showcase all of the app's features on our home page without clutter
 
 Below the carousel, we have three simple buttons that link to the three features of our app. Users can quickly navigate through our app if they choose to not use the slideshow. 
 
+<img src= "PrototypeImages/bottomHeader.png"  width=300></br>
+
 The bottom of our web page allows for the user to change the language of the app. Because we want our app to be accessible to communities all around the world, and access to clean water is a global issue, it is important for our app to be linguistically diverse. This option is repeated on the majority of our pages.
 
 
