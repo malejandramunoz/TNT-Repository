@@ -50,8 +50,8 @@ By allowing submissions from cutomers to be reviewed to make sure they trustwort
 ## UX
 We chose a small screen to cater to those who need on-the-go access. More people have smart phones over computers, so a smaller screen would be accesible to more people. Because one of our main features is a digital map, it would be more convenient for users to be able to follow direction on their phone.
 
-<img src="PrototypeImages/header.png" width=300>
 The user is introduced to our mobile web app with clear options and a friendly user interface. The header is simple: it gives a clear display of the name of our app. 
+<img src="PrototypeImages/header.png" width=300>
 
 <img src="PrototypeImages/homeScreen.png" width=300>
 
